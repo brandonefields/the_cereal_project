@@ -1,0 +1,2 @@
+class CerealBrandsController < ApplicationController
+end
