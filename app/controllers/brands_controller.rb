@@ -23,6 +23,7 @@ class BrandsController < ApplicationController
         )
 
         if @brand.valid?
+            @brand.save
             render json: @brand, status: :created
         else 
             render json: { errors: @brand.errors.full_messages}, status: :unprocessable_entity
