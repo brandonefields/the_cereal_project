@@ -4,7 +4,7 @@ Keep'n track of all them cereals
 
 ## Summary
 
-
+https://giphy.com/embed/WJIjr6Xr2ctcnu1gD1
 
 <!-- https://user-images.githubusercontent.com/79122583/123479340-050a5d80-d5be-11eb-9445-a00866db11c4.mp4 -->
 
