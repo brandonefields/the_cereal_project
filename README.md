@@ -1,7 +1,14 @@
 # the_cereal_project
 Keep'n track of all them cereals
 
+
 ## Summary
+
+
+
+<!-- https://user-images.githubusercontent.com/79122583/123479340-050a5d80-d5be-11eb-9445-a00866db11c4.mp4 -->
+
+
 
 https://user-images.githubusercontent.com/79122583/123472486-77764000-d5b4-11eb-8c37-06eb88833bc0.mp4
 
