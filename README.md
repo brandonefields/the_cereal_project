@@ -1,5 +1,5 @@
 # the_cereal_project
-Keep'n track of those cereals you love.
+Keep'n track of all them cereals
 
 ## Summary
 
